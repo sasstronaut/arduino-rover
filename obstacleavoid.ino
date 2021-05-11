@@ -1,3 +1,5 @@
+//Arduino UNO and ultrasonic sensor obstacle avoidance 
+
 //motor
 #define Lpwm_pin  5     //pin of controlling speed---- ENA of motor driver board
 #define Rpwm_pin  6    //pin of controlling speed---- ENB of motor driver board

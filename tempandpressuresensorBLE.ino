@@ -1,4 +1,4 @@
-
+//Arduino NANO 33 BLE Sense: Tempeature and Pressure Sensor. Reference: https://ladvien.com/arduino-nano-33-bluetooth-low-energy-setup/
 // https://rootsaid.com/arduino-ble-example/
 // Characteristic info.
 // https://www.arduino.cc/en/Reference/ArduinoBLEBLECharacteristicBLECharacteristic
